@@ -3,6 +3,10 @@
 1. line 1
 2. line 2
 
+ 
+- [X] added code block
+- [X] add image
+- [ ] add bold and italic 
    ```
    var myVar = 3;
    ```
